@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 16,
+        "length": 27,
         "location": 0
       }
     ],
-    "string": "Testing kactus 3"
+    "string": "Terinal barcnh fresh starts"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "8318BC21-258A-4CB5-BA52-B996BAC642DB",
     "height": 24,
-    "width": 151,
+    "width": 241,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{0, 4}, {149, 20}}",
+  "glyphBounds": "{{0, 3}, {240, 17}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Testing kactus 3",
+  "name": "Terinal barcnh fresh",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
