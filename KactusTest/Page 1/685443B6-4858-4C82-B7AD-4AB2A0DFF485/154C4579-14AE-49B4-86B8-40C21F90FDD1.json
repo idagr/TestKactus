@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 11,
+        "length": 19,
         "location": 0
       }
     ],
-    "string": "Fresh start"
+    "string": "Fresh start termnal"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "8318BC21-258A-4CB5-BA52-B996BAC642DB",
     "height": 24,
-    "width": 99,
+    "width": 174,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{1, 4}, {97, 16}}",
+  "glyphBounds": "{{1, 4}, {171, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Fresh start",
+  "name": "Fresh start termnal",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
