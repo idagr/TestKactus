@@ -28,11 +28,11 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 13,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "From terminal"
+    "string": "From terminal shouldnt be here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,11 +54,11 @@
     "constrainProportions": false,
     "do_objectID": "4E30F81F-D699-4F43-A36C-23BBAD3BBB17",
     "height": 24,
-    "width": 128,
+    "width": 285,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{1, 4}, {125, 16}}",
+  "glyphBounds": "{{1, 4}, {283, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "From terminal",
+  "name": "From terminal should",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
