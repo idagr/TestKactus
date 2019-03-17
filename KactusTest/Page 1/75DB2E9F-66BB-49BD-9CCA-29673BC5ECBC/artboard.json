@@ -27,15 +27,15 @@
     "do_objectID": "90BDE7AA-35B6-4E20-ACC6-5628E2C53AA6",
     "height": 261,
     "width": 315,
-    "x": 102,
-    "y": 411
+    "x": 135,
+    "y": 132
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "51B74A70-193D-495A-B613-7CF81AA30FC1"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -59,7 +59,7 @@
       "id": "73CE1519-CAE8-4473-841B-4D572AE6B5AF"
     }
   ],
-  "name": "Artboard3",
+  "name": "Artboard1",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
