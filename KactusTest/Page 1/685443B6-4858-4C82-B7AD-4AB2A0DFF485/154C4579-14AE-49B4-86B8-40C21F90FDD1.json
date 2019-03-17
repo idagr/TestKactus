@@ -28,20 +28,20 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 16,
         "location": 0
       }
     ],
-    "string": "Added branch"
+    "string": "Testing kactus 3"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "73CE1519-CAE8-4473-841B-4D572AE6B5AF",
+  "do_objectID": "154C4579-14AE-49B4-86B8-40C21F90FDD1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "60B17C7B-5C18-4D91-ABC8-F7D61F132732",
+    "do_objectID": "CA0C65E0-5D59-4831-940E-EF3C7F962B7E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9054F13A-27F4-4502-861A-E1B453D1E57F",
+    "do_objectID": "8318BC21-258A-4CB5-BA52-B996BAC642DB",
     "height": 24,
-    "width": 127,
+    "width": 151,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{0, 4}, {125, 16}}",
+  "glyphBounds": "{{0, 4}, {149, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Added branch",
+  "name": "Testing kactus 3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,16 +79,16 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "97972103-D27F-4C07-903F-1F8288FF57E4",
+      "do_objectID": "BF288E1F-5F52-46F9-BE64-2CB13BCA26AB",
       "opacity": 0.87
     },
-    "do_objectID": "BF597809-4A1C-4A07-AB8E-6944B947A78C",
+    "do_objectID": "AB861F55-ADA8-4538-8345-9F930CF82A02",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4DF8E3B4-C9D2-4340-B13E-5661CE368F86",
+      "do_objectID": "6CB8C41A-4577-4BFE-B2DA-5D5B4E6F0A98",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

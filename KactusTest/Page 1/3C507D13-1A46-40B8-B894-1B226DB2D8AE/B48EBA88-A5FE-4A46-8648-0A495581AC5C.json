@@ -28,20 +28,20 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 12,
+        "length": 30,
         "location": 0
       }
     ],
-    "string": "Added branch"
+    "string": "From terminal shouldnt be here"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "73CE1519-CAE8-4473-841B-4D572AE6B5AF",
+  "do_objectID": "B48EBA88-A5FE-4A46-8648-0A495581AC5C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "60B17C7B-5C18-4D91-ABC8-F7D61F132732",
+    "do_objectID": "56AEC200-7059-4EA8-B9A8-4B4159F24A0E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9054F13A-27F4-4502-861A-E1B453D1E57F",
+    "do_objectID": "4E30F81F-D699-4F43-A36C-23BBAD3BBB17",
     "height": 24,
-    "width": 127,
+    "width": 285,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{0, 4}, {125, 16}}",
+  "glyphBounds": "{{1, 4}, {283, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Added branch",
+  "name": "From terminal should",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,16 +79,16 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "97972103-D27F-4C07-903F-1F8288FF57E4",
+      "do_objectID": "E427860A-5D22-4343-9CE4-C07E37B54392",
       "opacity": 0.87
     },
-    "do_objectID": "BF597809-4A1C-4A07-AB8E-6944B947A78C",
+    "do_objectID": "0C77FAF7-1D56-420B-90B4-F53677FD4657",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "4DF8E3B4-C9D2-4340-B13E-5661CE368F86",
+      "do_objectID": "02B7DBD7-A8F6-465F-9565-D190663FE821",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
