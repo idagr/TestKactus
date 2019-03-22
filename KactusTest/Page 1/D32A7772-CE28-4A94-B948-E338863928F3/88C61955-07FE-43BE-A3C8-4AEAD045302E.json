@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8B24CA56-E1B5-476F-8E50-06E9C2BD3E2A",
+  "do_objectID": "88C61955-07FE-43BE-A3C8-4AEAD045302E",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,44 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 77,
+    "width": 184,
+    "x": 47,
+    "y": 153
   },
-  "groupLayout": {
-    "_class": "MSImmutableFreeformGroupLayout"
-  },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "artboard",
-      "id": "685443B6-4858-4C82-B7AD-4AB2A0DFF485"
-    },
-    {
-      "class": "artboard",
-      "id": "D32A7772-CE28-4A94-B948-E338863928F3"
-    }
-  ],
-  "name": "Page 1",
+  "name": "Rectangle",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -61,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": 0,
-    "guides": [
-    ]
-  }
+  "symbolID": "363F1997-9D67-4D64-8F52-CECB11C2D2BF",
+  "verticalSpacing": 0
 }

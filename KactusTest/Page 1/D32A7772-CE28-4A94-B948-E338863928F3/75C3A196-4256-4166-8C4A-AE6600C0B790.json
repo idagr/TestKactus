@@ -28,20 +28,20 @@
             "allowsDefaultTighteningForTruncation": 0
           }
         },
-        "length": 19,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "Fresh start termnal"
+    "string": "Change"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "154C4579-14AE-49B4-86B8-40C21F90FDD1",
+  "do_objectID": "75C3A196-4256-4166-8C4A-AE6600C0B790",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CA0C65E0-5D59-4831-940E-EF3C7F962B7E",
+    "do_objectID": "DE4356E2-0B97-4C6E-86B0-3DDED9493590",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -52,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "8318BC21-258A-4CB5-BA52-B996BAC642DB",
+    "do_objectID": "67A2C9C4-AC7B-4D72-9639-2C9B00515303",
     "height": 24,
-    "width": 174,
+    "width": 70,
     "x": 70,
     "y": 90
   },
-  "glyphBounds": "{{1, 4}, {171, 16}}",
+  "glyphBounds": "{{0, 4}, {69, 20}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Fresh start termnal",
+  "name": "Change",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -79,16 +79,16 @@
     "contextSettings": {
       "_class": "graphicsContextSettings",
       "blendMode": 0,
-      "do_objectID": "BF288E1F-5F52-46F9-BE64-2CB13BCA26AB",
+      "do_objectID": "DB4DE4FF-B0A7-40DE-81B4-4A9B265C1FA4",
       "opacity": 0.87
     },
-    "do_objectID": "AB861F55-ADA8-4538-8345-9F930CF82A02",
+    "do_objectID": "489E9ED9-C13E-43D9-BCF2-A1E21A82C0D4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6CB8C41A-4577-4BFE-B2DA-5D5B4E6F0A98",
+      "do_objectID": "5C832FC6-2ADE-42E8-BBD5-CD371E4F0BEA",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
